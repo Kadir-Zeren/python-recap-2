@@ -105,3 +105,15 @@ tamsayi =7
 
 print(float(tamsayi))
 
+x = 39
+v = '11'
+y = '2.5'
+z = 'I am at_'
+
+print(x-int(v))
+print(x-float(y))
+print(z+str(x))
+
+print(5+3)
+print(5+3.0)
+print('123'+'12')
