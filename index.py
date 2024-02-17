@@ -54,3 +54,54 @@ b = 5
 c = 7.6
 
 print(a,b,c)
+
+ali = None
+print(ali)
+
+x = 15
+y = 33
+z = x
+x = y
+print(x)
+print(y)
+print(z)
+
+a, b, c = 5, 7, 9
+print(a,b,c)
+
+a = 'clarusway'
+print(type(a))
+
+sehir = '35'
+print(type(sehir))
+
+sayi1 = 49
+print(type(sayi1))
+
+a = 5.7
+print(type(a))
+
+b = True 
+print(type(a), type(b))
+
+a =123
+print(type(a))
+
+str(a)
+print((a))
+print(type(a))
+
+yeni_a = str(a)
+print((yeni_a))
+print(type(yeni_a))
+
+a = 1.23
+
+print(type(a))
+
+print(int(a))
+
+tamsayi =7
+
+print(float(tamsayi))
+
